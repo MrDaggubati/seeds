@@ -1,0 +1,10 @@
+- What would you do if a stranger online asked you to keep a secret from your family?
+- If a situation felt unsafe, who are two trusted people you could contact?
+- What clues might help you decide whether an online claim is trustworthy?
+- What information should you avoid sharing with someone you only know online?
+- What could you do if someone pressured you to send a photo or keep chatting?
+- How can you check whether a link or message might be a scam?
+- What is a safe way to respond if someone online becomes angry or threatening?
+- If a friend planned to meet someone they first met online, what safety steps could you encourage?
+- What could you do if you realized you had shared something online that you now regret?
+- How can you tell a trusted adult about an uncomfortable situation, even if you’re worried you’ll get in trouble?

@@ -1,0 +1,10 @@
+- What is one thing adults sometimes misunderstand about being a teenager?
+- What makes a friendship feel comfortable, respectful, and real?
+- How do you decide whether something online is worth responding to?
+- What helps you feel included without having to pretend to be someone else?
+- How can you tell when a disagreement with a friend needs a conversation?
+- What is a boundary you think is important in a friendship?
+- How do you handle pressure to join in when you’re not comfortable?
+- What makes advice from an adult feel useful rather than dismissive?
+- How can you make space for school, friends, rest, and things you enjoy?
+- What is one online habit that helps you feel better, and one that can leave you feeling worse?

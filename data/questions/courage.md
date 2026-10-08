@@ -1,0 +1,10 @@
+- When have you done something even though you felt nervous?
+- What is a small brave thing you could try this month?
+- How can you support a friend who is afraid to try something new?
+- What is the difference between being brave and taking an unnecessary risk?
+- When have you asked for help even though it felt difficult?
+- What could you tell yourself before doing something that makes you anxious?
+- How might you take a first step toward something that feels intimidating?
+- Is it brave to change your mind or admit you were wrong? Why?
+- What is something you want to try, even if you might not be great at it right away?
+- Who helps you feel more confident, and what do they do that helps?

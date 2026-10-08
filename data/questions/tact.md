@@ -1,0 +1,10 @@
+- How could you disagree with a friend without embarrassing them?
+- How might you tell someone their joke hurt your feelings without insulting them?
+- What could you say when you need to leave a conversation politely?
+- How can you give someone helpful feedback without making it personal?
+- What might you say if you realize you interrupted someone?
+- How can you ask a sensitive question while giving someone room not to answer?
+- What is a respectful way to correct someone who made a mistake?
+- How could you join a conversation without talking over someone?
+- What could you say when you need time to think before answering?
+- How can you be honest while still choosing a considerate time and place?

@@ -1,0 +1,10 @@
+- If you found something valuable that belonged to someone else, what would you do?
+- Is it fair to share a screenshot of a private conversation? What details might matter?
+- What makes an apology feel genuine?
+- When, if ever, should someone ask permission before sharing another person’s story?
+- How would you handle a group project if one person did much less work than everyone else?
+- Is it fair to use a rule when it helps you but ignore it when it doesn’t?
+- What should you consider before posting a photo that includes someone else?
+- If a friend told you something private that suggested someone might be in danger, what would be the responsible next step?
+- Can a decision be legal but still feel unfair? What might make it unfair?
+- How can a group make decisions so that quieter people have a chance to contribute?

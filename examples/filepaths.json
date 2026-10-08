@@ -1,0 +1,17 @@
+{
+  "title": "Conversation Cards | Local files",
+  "quotes": true,
+  "players": {
+    "source": "file",
+    "path": "./data/players.json"
+  },
+  "questions": {
+    "source": "file",
+    "path": "./data/questions",
+    "files": [
+      "icebreakers.md",
+      "deeper-talks.md",
+      "just-for-fun.md"
+    ]
+  }
+}

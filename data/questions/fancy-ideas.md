@@ -1,0 +1,10 @@
+- If you could design a dream room, what three things would it have?
+- If you could have dinner with any three people from history or fiction, who would you choose, and what would you ask them?
+- What would your perfect day look like if time and money were no problem?
+- If you could create a place for people to relax, learn, or play, what would it be like?
+- What would you build if you had unlimited materials but only one weekend?
+- If you could visit any imaginary world for a day, where would you go?
+- What invention would make an ordinary daily task more enjoyable?
+- If you could add one new room to your home or school, what would happen there?
+- What would a museum about your life include?
+- If you could make one impossible thing possible for a day, what would you choose?

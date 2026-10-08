@@ -1,0 +1,10 @@
+- If you could invent a ridiculous new holiday, what would people celebrate?
+- What song, game, or activity instantly makes a group more fun?
+- If your week had a funny title, what would it be?
+- What harmless superpower would be surprisingly useful in everyday life?
+- If you could rename one ordinary object, what would you call it?
+- What would be the strangest possible mascot for your school or community?
+- If you had to create a new team sport using only everyday objects, how would it work?
+- What fictional food would you most like to try?
+- What is a tiny thing that makes you laugh more than it probably should?
+- If your pet—or a favorite animal—could give you one piece of advice, what might it say?

@@ -1,0 +1,10 @@
+- Why do people sometimes follow a crowd even when they disagree?
+- What can make it easier—or harder—to trust someone?
+- Why might two people remember the same argument differently?
+- How can a person’s expectations affect what they notice?
+- Why might someone act differently with friends than they do alone?
+- What can make a rumor seem believable, even before it has been checked?
+- Why do people sometimes defend an opinion more strongly after hearing evidence against it?
+- How might stress affect the way someone interprets another person’s words?
+- Why can belonging to a group matter so much to people?
+- What is one way to check whether your first impression of someone is fair?

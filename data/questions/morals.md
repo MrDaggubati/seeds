@@ -1,0 +1,10 @@
+- Is it ever kind to tell someone a truth they may not want to hear? How could you say it thoughtfully?
+- What would you do if a friend was being teased and others expected you to join in?
+- When might doing the right thing feel uncomfortable?
+- How would you decide what to do if two important values seemed to conflict?
+- Is keeping a promise always the right choice? What if keeping it could hurt someone?
+- What might courage look like when you’re standing up for someone else?
+- How can you take responsibility after making a choice that hurt someone?
+- Does good intent always make an action okay? Why or why not?
+- What would you do if you saw someone being treated unfairly but felt unsure how to help?
+- How can you speak up without making a difficult situation more dangerous?

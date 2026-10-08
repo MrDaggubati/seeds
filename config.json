@@ -1,0 +1,16 @@
+{
+  "title": "Conversation Cards | GitHub",
+  "quotes": true,
+  "players": {
+    "source": "github",
+    "repo": "mrdaggubati/seeds",
+    "path": "data/players.json",
+    "ref": "main"
+  },
+  "questions": {
+    "source": "github",
+    "repo": "mrdaggubati/seeds",
+    "path": "data/questions",
+    "ref": "main"
+  }
+}

@@ -1,0 +1,10 @@
+- Which feeling showed up most for you this week? What might have contributed to it?
+- What are some clues your body gives you when you’re stressed, excited, or upset?
+- What helps you reset when a day feels overwhelming?
+- What feeling is easiest for you to show? Which is hardest to talk about?
+- Can you remember a time you felt two different emotions at once? What was that like?
+- What helps you tell the difference between feeling disappointed and feeling discouraged?
+- When you’re upset, would you rather have quiet, company, advice, or something else?
+- What is a healthy way you could express frustration without taking it out on someone?
+- How do your feelings change when you’re tired, hungry, or under pressure?
+- What is something small that has made you feel calm or cheerful lately?

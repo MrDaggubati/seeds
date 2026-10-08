@@ -1,0 +1,10 @@
+- What is a story from an older person’s life you’d like to hear?
+- What is a mistake that taught you something useful?
+- What is a family or community tradition you’d like to keep?
+- What is a place that has a special memory for you?
+- Who has taught you something important without necessarily meaning to?
+- What is a story you hope you’ll still remember years from now?
+- What is something about your family or community that you’re curious to learn more about?
+- What is a small moment when someone made you feel welcome?
+- Which object, photo, or song reminds you of a particular time in your life?
+- If you could ask someone from your past one question, what would you ask?

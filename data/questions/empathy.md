@@ -1,0 +1,10 @@
+- What might you do if you noticed someone sitting alone? How could you make an invitation without putting them on the spot?
+- How can you tell whether someone wants advice, help, or simply to be heard?
+- What might be going on for someone who seems unusually quiet?
+- What could you say when you don’t know exactly how someone feels but want to show you care?
+- How might the same comment feel different to two people?
+- What is a respectful way to ask someone what support they need?
+- How can you listen closely when you disagree with someone?
+- What might help someone feel included in a group conversation?
+- When could trying to help accidentally make someone feel uncomfortable?
+- What is one kind thing someone has done for you that you still remember?

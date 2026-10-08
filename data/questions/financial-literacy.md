@@ -1,0 +1,10 @@
+- If you received $20, how might you decide what to save, spend, or share?
+- What is the difference between something you want and something you need? Can the answer depend on the situation?
+- Why might waiting a day before buying something be a useful habit?
+- If you were saving for something, how could you make a plan that feels realistic?
+- What might you give up—or choose less often—to save for something that matters more?
+- How can advertisements or social media influence what people want to buy?
+- What questions could you ask before lending money to a friend?
+- Why is it useful to know the total cost of something, not just its price today?
+- What are some ways to enjoy time with friends that cost little or nothing?
+- If you made a purchase you regretted, what could you learn from it without being too hard on yourself?

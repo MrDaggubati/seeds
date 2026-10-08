@@ -1,0 +1,10 @@
+- What is something you’re good at that you sometimes take for granted?
+- What kinds of situations tend to bring out your best?
+- What is one thing you’ve changed your mind about recently, and what helped you reconsider?
+- What kind of feedback is easiest for you to hear? What kind is harder?
+- What do you enjoy doing even when nobody is watching or keeping score?
+- What is a quality you value in yourself that isn’t about appearance or achievement?
+- When do you feel most like yourself?
+- What is a habit you’d like to understand better before deciding whether to change it?
+- What is something you used to find difficult that feels more manageable now?
+- What do you wish people understood about the way you think or work?

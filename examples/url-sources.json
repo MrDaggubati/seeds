@@ -1,0 +1,17 @@
+{
+  "title": "Conversation Cards | Remote URLs",
+  "quotes": true,
+  "players": {
+    "source": "url",
+    "url": "https://raw.githubusercontent.com/mrdaggubati/seeds/main/data/players.json"
+  },
+  "questions": {
+    "source": "url",
+    "path": "https://raw.githubusercontent.com/mrdaggubati/seeds/main/data/questions",
+    "files": [
+      "icebreakers.md",
+      "deeper-talks.md",
+      "just-for-fun.md"
+    ]
+  }
+}

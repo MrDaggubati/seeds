@@ -1,0 +1,31 @@
+{
+  "title": "Conversation Cards | Inline",
+  "quotes": true,
+  "players": {
+    "source": "inline",
+    "items": [
+      {
+        "name": "Alex",
+        "color": "#ffd6e0"
+      },
+      {
+        "name": "Sam",
+        "color": "#d6e4ff"
+      }
+    ]
+  },
+  "questions": {
+    "source": "inline",
+    "items": [
+      {
+        "tag": "Icebreakers",
+        "question": "What was the highlight of your week?"
+      },
+      {
+        "tag": "Reflection",
+        "question": "What have you learned recently?"
+      },
+      "Where would you like to travel?"
+    ]
+  }
+}
